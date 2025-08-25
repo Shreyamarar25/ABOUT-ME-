@@ -28,3 +28,13 @@
 - ✅ Strong **Communication & Presentation skills**  
 - ✅ Ability to **work in teams** and collaborate effectively  
 - ✅ Curious, Adaptable, and always eager to **learn & grow**
+
+
+### 📊 GitHub Stats  
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamarar25&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyamarar25&layout=compact&theme=radical)  
+
+### 🌐 Connect With Me  
+ [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyamarar20@gmail.com)  
+
+
