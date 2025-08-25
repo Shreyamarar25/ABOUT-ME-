@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shreya!  
+# Hey there 👋, I'm Shreya!  
 
 ### 🚀 About Me  
 🎓 I'm a **2nd Year CSE (AI & ML) Student** at **GEU, Class of 2028**  
